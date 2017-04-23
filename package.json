@@ -1,0 +1,20 @@
+{
+  "name": "typescript-talk",
+  "version": "1.0.0",
+  "description": "Typescript - The better JavaScript?",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s",
+    "watch": "browser-sync start -s -f index.html,poi.css"
+  },
+  "author": "Christian Köberl",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "highlight.js": "9.10.0",
+    "reveal.js": "3.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "typescript": "next"
+  }
+}
