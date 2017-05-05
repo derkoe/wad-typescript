@@ -13,9 +13,6 @@
   font-family: "Open Sans";
   text-transform: none;
 }
-.reveal h1 em {
-  color: rgb(109, 179, 76);
-}
 .reveal .slides section .fragment.strike {
   visibility: visible;
 }
